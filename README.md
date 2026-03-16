@@ -1,9 +1,5 @@
 # 🧠 AI Research Papers - ML Algorithms (2020-2026)
 
-[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/impremmohan/global-ai-research-papers-2020-2026)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-orange?logo=kaggle)](https://www.kaggle.com/code/impremmohan/complete-ml-analysis-on-ai-research-papers)
-[![Kaggle Model](https://img.shields.io/badge/Kaggle-Model-green?logo=kaggle)](https://www.kaggle.com/models/impremmohan/ai-research-papers-2020-2026)
-
 > End-to-End Machine Learning Pipeline built on 10,000 real AI research papers collected from arXiv (2020-2026)
 
 ---
@@ -159,8 +155,9 @@ This project is licensed under the MIT License.
 
 **Prem Mohan**
 
-- 🌐 Website: [premmohan.com](https://premmohan.com)
-- 📊 Kaggle: [kaggle.com/impremmohan](https://www.kaggle.com/impremmohan)
-- 💻 GitHub: [github.com/impremmohan](https://github.com/impremmohan)
+[![Author- Prem Mohan](https://premmohan.com)
+[![Author- Kaggle Profile](kaggle.com/impremmohan](https://www.kaggle.com/impremmohan)
+[![Author- Github Profile](github.com/impremmohan](https://github.com/impremmohan)
+
 
 
